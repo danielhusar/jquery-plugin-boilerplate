@@ -1,0 +1,21 @@
+{
+  "name": "<%= slugname %>",
+  "version": "0.0.0",
+  "homepage": "https://github.com/<%= githubusername %>/<%= slugname %>",
+  "authors": [
+    "<%= name %> <<%= email %>>"
+  ],
+  "description": "",
+  "main": "./dest/<%= slugname %>",
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
