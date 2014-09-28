@@ -13,7 +13,7 @@ $ bower install <%= slugName %>
 ### Sample usage
 
 ```javascript
-$('*').<%= calemName %>();
+$('*').<%= camelName %>();
 ```
 
 ## Options
