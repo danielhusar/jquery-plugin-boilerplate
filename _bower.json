@@ -6,7 +6,7 @@
     "<%= name %> <<%= email %>>"
   ],
   "description": "",
-  "main": "./dest/<%= slugname %>",
+  "main": "./dest/<%= slugName %>",
   "keywords": [
     "jquery"
   ],
