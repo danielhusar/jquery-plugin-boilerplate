@@ -1,6 +1,6 @@
 var assert = chai.assert;
 
-describe('<%= pluginNamE %>', function () {
+describe('<%= pluginName %>', function () {
 
   it('Should work', function (cb) {
     assert(true);

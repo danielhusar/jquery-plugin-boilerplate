@@ -1,4 +1,4 @@
-# <%= pluginname %> [![Build Status](https://travis-ci.org/<%= githubusername %>/<%= slugname %>.svg)](https://travis-ci.org/<%= githubusername %>/<%= slugname %>)
+# <%= pluginName %> [![Build Status](https://travis-ci.org/<%= githubUserName %>/<%= slugName %>.svg)](https://travis-ci.org/<%= githubUserName %>/<%= slugname %>)
 
 Description goes here
 
@@ -7,13 +7,13 @@ Description goes here
 Download manually or with bower:
 
 ```ssh
-$ bower install <%= slugname %>
+$ bower install <%= slugName %>
 ```
 
 ### Sample usage
 
 ```javascript
-
+$('*').<%= calemName %>();
 ```
 
 ## Options

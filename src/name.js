@@ -3,7 +3,7 @@
 
   // Collection method.
   $.fn.extend({
-    <%= camelname %>: function (options) {
+    <%= camelName %>: function (options) {
 
       var defaults = {};
       var settings = $.extend(defaults, options);
@@ -16,7 +16,7 @@
 
   // Static method.
   $.extend({
-    <%= camelname %>: function (options) {
+    <%= camelName %>: function (options) {
 
       var defaults = {};
       var settings = $.extend(defaults, options);

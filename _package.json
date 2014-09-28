@@ -1,5 +1,5 @@
 {
-  "name": "<%= slugname %>",
+  "name": "<%= slugName %>",
   "version": "0.0.0",
   "description": "",
   "keywords": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ttps://github.com/<%= githubusername %>/<%= slugname %>"
+    "url": "ttps://github.com/<%= githubUserName %>/<%= slugName %>"
   },
   "devDependencies": {
     "chai": "^1.9.1",

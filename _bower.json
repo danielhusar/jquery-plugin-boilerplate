@@ -1,7 +1,7 @@
 {
-  "name": "<%= slugname %>",
+  "name": "<%= slugName %>",
   "version": "0.0.0",
-  "homepage": "https://github.com/<%= githubusername %>/<%= slugname %>",
+  "homepage": "https://github.com/<%= githubUserName %>/<%= slugName %>",
   "authors": [
     "<%= name %> <<%= email %>>"
   ],
