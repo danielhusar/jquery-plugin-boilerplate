@@ -1,4 +1,4 @@
-# <%= pluginName %> [![Build Status](https://travis-ci.org/<%= githubUserName %>/<%= slugName %>.svg)](https://travis-ci.org/<%= githubUserName %>/<%= slugname %>)
+# <%= pluginName %> [![Build Status](https://travis-ci.org/<%= githubUserName %>/<%= slugName %>.svg)](https://travis-ci.org/<%= githubUserName %>/<%= slugName %>)
 
 Description goes here
 
